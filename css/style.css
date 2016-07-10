@@ -1,0 +1,78 @@
+
+body {
+    background: #dfdfdf;
+}
+table {
+    margin: 50px auto;
+    border-collapse: collapse;
+}
+td {
+    border: 10px solid #000;
+    z-index: 1;
+}
+.First_col {
+   height: 55px;
+}
+.Second_col {
+   height: 140px;
+}
+.Third_col {
+   height: 140px;
+}
+.Fourth_col {
+   height: 65px;
+}
+.Fifth_col {
+   height: 65px;
+}
+.Sixth_col {
+   height: 33px;
+}
+.Seventh_col {
+   height: 33px;
+}
+.box1 {
+    width: 125px;
+}
+.box2 {
+    width: 215px;
+}
+.box3 {
+    width: 175px;
+}
+.box4 {
+    width: 50px;
+}
+.box11, .box16 {
+    width: 63px;
+}
+.box3, .box6, .box14 {
+    background: #fff15b;
+}
+.box5 {
+    background: #ff5b2d;
+}
+.box10, .box11, .box15,.box16, .box20 {
+    background: #3b3b3b;
+}
+.box18 {
+    background: #0b4888 ;
+}
+.box1,.box2,.box4,.box7,
+.box8,.box9,.box12,.box13,
+.box17,.box19,.box21 {
+    background: white;
+}
+.box1, .box2, .box3 {
+   border-top: 1px solid #000; 
+}
+.box3, .box6, .box9, .box13, .box18, .box21 {
+   border-right: 1px solid #000;
+}
+.box1, .box4, .box7, .box14 {
+   border-left: 1px solid #000; 
+}
+.box19, .box21, .box14 {
+   border-bottom: 1px solid #000; 
+}
+
