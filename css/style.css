@@ -32,20 +32,24 @@ td {
    height: 33px;
 }
 .box1 {
-    width: 125px;
+    width: 150px;
 }
 .box2 {
-    width: 215px;
+    width: 210px;
 }
 .box3 {
-    width: 175px;
+    width: 130px;
 }
-.box4 {
-    width: 50px;
+
+/* .box5 {
+  width: 50px;
 }
-.box11, .box16 {
+.box6 {
+  width: 50px;
+} */
+/* .box11, .box16 {
     width: 63px;
-}
+} */
 .box3, .box6, .box14 {
     background: #fff15b;
 }
